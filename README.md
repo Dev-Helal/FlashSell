@@ -1,0 +1,2 @@
+# FlashSell
+FlashSell Email Template
